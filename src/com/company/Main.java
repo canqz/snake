@@ -10,7 +10,6 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
         frame.add(new MPanel());
-
         frame.setVisible(true);
     }
 }
